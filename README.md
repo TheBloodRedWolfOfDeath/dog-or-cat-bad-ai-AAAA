@@ -1,2 +1,1 @@
-# dog-or-cat-bad-ai-AAAA
-ZA WARUDO
+hi im arrow
